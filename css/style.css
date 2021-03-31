@@ -1,0 +1,127 @@
+body
+{
+    background-image: url("../images/back.jpg");
+    background-size: cover;
+    height: 100%;
+    background-repeat: repeat;
+}
+.hundereds
+{
+    width: 100%;
+    
+}
+.centers
+{
+    text-align: center;
+    width: 20%;
+    border: 1px solid aquamarine;
+    background: aquamarine;
+}
+.centers:hover
+{
+    background-color: aqua;  
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(255, 0, 0);
+}
+a:visited{
+    color:rgb(255, 0, 0);
+}
+.need-aligning{
+    text-align: left;
+}
+.clickable-td{
+    width: 50%;
+    border: 1px solid greenyellow;
+    background: greenyellow;
+}
+.clickable-td:hover{
+    border: green;
+    background: green;
+}
+.class-name{
+    width: 100%;
+    height: 100%;
+}
+.register{
+    width: 100%;
+    text-align: center;
+}
+.reg-input{
+    width: 100%;
+    height: 25px;
+}
+.a-table-inside-a-table{
+    width: 100%;
+}
+.table-outside-of-a-table{
+    background: rgb(17, 144, 248);
+    padding: 20px;
+    width: 75%;
+    height: 56%;
+}
+.this-should-be-here{
+    text-align: left;
+}
+.why-is-this-here{
+    text-align: left;
+}
+.gallery-photos{
+    width: 100%;
+    height: 300px;
+}
+.carry-on{
+    width: 90%;
+    height: 100px;
+}
+.centers-h3
+{
+    width: 33%;
+    text-align: center;
+    font-weight: bold;
+}
+#contact-div{
+    width: 850px;
+    height: 500px;
+    background: olive;
+    text-align: center;
+    padding-top: 150px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.gallery-h3{
+    text-align: center;
+}
+.gallery-td{
+    border: 1px solid black;
+}
+.billing-div{
+    background: olive;
+    width: 70%;
+    padding-bottom: 25px;
+    padding-top: 25px
+}
+.billing-td{
+    width: 20%;
+    text-align: center;
+    background: cornflowerblue;
+}
+.table-titles{
+    background: wheat;
+    width: 20%;
+    text-align: center;
+}
+textarea{
+    width: 500px;
+    height: 200px;
+    resize: none;
+}
+.choose-td{
+    width: 20%;
+    height: 70px;
+}
+.billing-b{
+    width: 70px;
+    height: 45px;
+}
